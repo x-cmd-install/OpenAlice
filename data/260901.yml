@@ -1,0 +1,64 @@
+about:
+  description: Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.
+  license: AGPL-3.0
+  homepage: https://openalice.ai
+  head: 009d3f4
+  archived: false
+  latestVersion: v0.91.0-beta.1
+  collectedAt: 2026-09-01T05:23:52Z
+timeline:
+  created: 2026-02-18
+  lastCommit: 2026-08-30
+  lastRelease: 2026-08-30
+popularity:
+  star: 6896
+  watcher: 33
+  fork: 1104
+  release: 64
+  contributor: 5
+  pullRequest: 105
+  issue: 121
+language:
+  TypeScript: 13038218
+  Python: 1010458
+  JavaScript: 865355
+  CSS: 215816
+  Shell: 50396
+  HTML: 31979
+  Dockerfile: 12153
+  NSIS: 1896
+  Batchfile: 948
+totalLine: 15227219
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 9
+    mergedPR: 292
+    openPR: 14
+    closedIssue: 2
+    openIssue: 13
+    commit: 357
+  last90d:
+    since: 2026-06-03
+    release: 41
+    mergedPR: 877
+    openPR: 21
+    closedIssue: 58
+    openIssue: 21
+    commit: 1203
+  last180d:
+    since: 2026-03-05
+    release: 64
+    mergedPR: 1014
+    openPR: 21
+    closedIssue: 92
+    openIssue: 25
+    commit: 1904
+  last360d:
+    since: 2025-09-06
+    release: 64
+    mergedPR: 1046
+    openPR: 21
+    closedIssue: 96
+    openIssue: 25
+    commit: 2079
