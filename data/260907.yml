@@ -5,18 +5,18 @@ about:
   head: 52b51f2
   archived: false
   latestVersion: "v0.91.1"
-  collectedAt: 2026-09-07T05:38:56Z
+  collectedAt: 2026-09-07T18:50:26Z
 timeline:
   created: 2026-02-18
   lastCommit: 2026-09-05
   lastRelease: 2026-09-05
 popularity:
-  star: 6972
+  star: 6983
   watcher: 33
-  fork: 1118
+  fork: 1121
   release: 70
   contributor: 6
-  pullRequest: 1244
+  pullRequest: 1254
   issue: 131
 language:
   TypeScript: 15590106
@@ -34,7 +34,7 @@ recent:
   last30d:
     since: 2026-08-08
     release: 13
-    mergedPR: 315
+    mergedPR: 325
     openPR: 20
     closedIssue: 1
     openIssue: 20
@@ -42,7 +42,7 @@ recent:
   last60d:
     since: 2026-07-09
     release: 26
-    mergedPR: 793
+    mergedPR: 803
     openPR: 25
     closedIssue: 37
     openIssue: 27
@@ -50,7 +50,7 @@ recent:
   last90d:
     since: 2026-06-09
     release: 45
-    mergedPR: 932
+    mergedPR: 942
     openPR: 28
     closedIssue: 53
     openIssue: 30
@@ -58,7 +58,7 @@ recent:
   last180d:
     since: 2026-03-11
     release: 70
-    mergedPR: 1098
+    mergedPR: 1108
     openPR: 28
     closedIssue: 92
     openIssue: 35
@@ -66,7 +66,7 @@ recent:
   last360d:
     since: 2025-09-12
     release: 70
-    mergedPR: 1130
+    mergedPR: 1140
     openPR: 28
     closedIssue: 96
     openIssue: 35
@@ -74,21 +74,21 @@ recent:
   last720d:
     since: 2024-09-17
     release: 70
-    mergedPR: 1130
+    mergedPR: 1140
     openPR: 28
     closedIssue: 96
     openIssue: 35
     commit: 3871
 total:
   release: 70
-  mergedPR: 1130
+  mergedPR: 1140
   openPR: 28
   closedIssue: 96
   openIssue: 35
   commit: 3871
 ---
 path: /home/runner/.x-repo/github.com/TraderAlice/OpenAlice
-collectedAt: 2026-09-07T05:39:05Z
+collectedAt: 2026-09-07T18:50:33Z
 loc:
   TypeScript:
     code: 287398
@@ -204,7 +204,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:39:06+00:00
+  collectedAt: 2026-09-07T18:50:34+00:00
   platform:
     darwin/arm64:
       name:  OpenAlice-Broker-longbridge-0.91.1-darwin-arm64.tgz
