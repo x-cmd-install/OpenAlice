@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 498489,
       "digest": "sha256:6a3eb42c14706d0455ebf2ded32b4c7b05a208c23f858fdda7ba3db3e87be703",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-05T09:06:13Z",
       "updated_at": "2026-09-05T09:06:13Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.91.1/OpenAlice-0.91.1.dmg.blockmap"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 5618,
       "digest": "sha256:6def219481ef8354b7cc5c36a6f63c531a39b011f2f7e8c472ea9107ee2e7eac",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-09-05T09:06:13Z",
       "updated_at": "2026-09-05T09:06:13Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.91.1/openalice.rb"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 300863010,
       "digest": "sha256:23088472597d91c1d4575be6349a9d45cf1bcfcd37c77021bd5e4f419d639511",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-09-05T09:06:13Z",
       "updated_at": "2026-09-05T09:06:32Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.91.1/OpenAlice.Setup.0.91.1.exe"
