@@ -1,0 +1,214 @@
+about:
+  description: "Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit."
+  license: AGPL-3.0
+  homepage: https://openalice.ai
+  head: 3d8b0c9
+  archived: false
+  latestVersion: "v0.92.1-beta"
+  latestRelease: "v0.92.0"
+  latestPrerelease: "v0.92.1-beta"
+  collectedAt: 2026-09-09T05:46:22Z
+timeline:
+  created: 2026-02-18
+  lastCommit: 2026-09-08
+  lastVersion: 2026-09-08
+  lastRelease: 2026-09-08
+  lastPrerelease: 2026-09-08
+popularity:
+  star: 7003
+  watcher: 34
+  fork: 1122
+  release: 73
+  contributor: 6
+  pullRequest: 1280
+  issue: 134
+language:
+  TypeScript: 16217425
+  JavaScript: 1109846
+  Python: 1019429
+  CSS: 346967
+  Shell: 57681
+  HTML: 31979
+  PowerShell: 29709
+  Dockerfile: 12940
+  NSIS: 1899
+  Batchfile: 948
+totalBytes: 18828823
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 16
+    mergedPR: 333
+    openPR: 19
+    closedIssue: 1
+    openIssue: 23
+    commit: 956
+  last60d:
+    since: 2026-07-11
+    release: 29
+    mergedPR: 776
+    openPR: 25
+    closedIssue: 32
+    openIssue: 29
+    commit: 1455
+  last90d:
+    since: 2026-06-11
+    release: 47
+    mergedPR: 942
+    openPR: 27
+    closedIssue: 53
+    openIssue: 32
+    commit: 1773
+  last180d:
+    since: 2026-03-13
+    release: 73
+    mergedPR: 1124
+    openPR: 28
+    closedIssue: 89
+    openIssue: 38
+    commit: 2508
+  last360d:
+    since: 2025-09-14
+    release: 73
+    mergedPR: 1166
+    openPR: 28
+    closedIssue: 96
+    openIssue: 38
+    commit: 2789
+  last720d:
+    since: 2024-09-19
+    release: 73
+    mergedPR: 1166
+    openPR: 28
+    closedIssue: 96
+    openIssue: 38
+    commit: 4012
+total:
+  release: 73
+  mergedPR: 1166
+  openPR: 28
+  closedIssue: 96
+  openIssue: 38
+  commit: 4012
+---
+path: /home/runner/.x-repo/github.com/TraderAlice/OpenAlice
+collectedAt: 2026-09-09T05:46:28Z
+loc:
+  TypeScript:
+    code: 295153
+    comments: 23226
+    blanks: 31949
+    files: 2021
+  Tsx:
+    code: 92456
+    comments: 2403
+    blanks: 7584
+    files: 416
+  JavaScript:
+    code: 27060
+    comments: 421
+    blanks: 1919
+    files: 131
+  Python:
+    code: 23571
+    comments: 2916
+    blanks: 5227
+    files: 256
+  Css:
+    code: 11674
+    comments: 200
+    blanks: 1586
+    files: 8
+  Yaml:
+    code: 8439
+    comments: 26
+    blanks: 2285
+    files: 4
+  Protobuf:
+    code: 2821
+    comments: 41
+    blanks: 908
+    files: 203
+  Json:
+    code: 1495
+    comments: 0
+    blanks: 0
+    files: 50
+  Bash:
+    code: 779
+    comments: 4
+    blanks: 47
+    files: 1
+  PowerShell:
+    code: 451
+    comments: 18
+    blanks: 1
+    files: 3
+  Sh:
+    code: 430
+    comments: 59
+    blanks: 55
+    files: 9
+  Html:
+    code: 269
+    comments: 7
+    blanks: 7
+    files: 2
+  Svg:
+    code: 176
+    comments: 0
+    blanks: 12
+    files: 8
+  Dockerfile:
+    code: 165
+    comments: 64
+    blanks: 27
+    files: 4
+  Toml:
+    code: 52
+    comments: 0
+    blanks: 2
+    files: 1
+  Batch:
+    code: 32
+    comments: 0
+    blanks: 0
+    files: 4
+  VisualStudioSolution:
+    code: 23
+    comments: 0
+    blanks: 1
+    files: 1
+  Ini:
+    code: 5
+    comments: 0
+    blanks: 1
+    files: 1
+  Autoconf:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 28473
+    blanks: 5074
+    files: 108
+  Text:
+    code: 0
+    comments: 134
+    blanks: 40
+    files: 3
+total:
+  code: 466225
+  comments: 58158
+  blanks: 56801
+  files: 3235
+---
+
+---
+  - node-sub
+  - node-pub
+  - node-reply
+  - node-req
+  - .npmignore
