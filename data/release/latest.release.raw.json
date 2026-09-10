@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 454185543,
       "digest": "sha256:513921eb6eea8b0e34ffe60ce18955da668d59045abc35dfbbcc205a3f81603b",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-09T19:24:40Z",
       "updated_at": "2026-09-09T19:25:05Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.92.1/OpenAlice-0.92.1-arm64.dmg"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 4713777,
       "digest": "sha256:dc535fcbe97c290cd9f162be9c0671a5734e0780fe2ee8fead010ddd10b1641a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-09T19:24:40Z",
       "updated_at": "2026-09-09T19:24:41Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.92.1/OpenAlice-Broker-alpaca-0.92.1-linux-x64.tgz"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 2549135,
       "digest": "sha256:5da996743929029dc439dd5fbc553765968cb5091e15a71abe120a0a13788192",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-09-09T19:24:40Z",
       "updated_at": "2026-09-09T19:24:41Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.92.1/OpenAlice-Broker-ibkr-0.92.1-darwin-x64.tgz"
@@ -1687,7 +1687,7 @@
       "state": "uploaded",
       "size": 45096101,
       "digest": "sha256:04822de65cc9c2fb6b44652652d6ee188617b4d0fb6034aef09b95d9becc1b6f",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-09T19:24:40Z",
       "updated_at": "2026-09-09T19:24:46Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.92.1/openalice-cli-0.92.1-darwin-arm64.tar.gz"
@@ -1723,7 +1723,7 @@
       "state": "uploaded",
       "size": 107,
       "digest": "sha256:afe86b1e78bdd72891cb3f2592a5d88f39b093b0bd9563dcf2edb1763d9e92f3",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-09T19:24:40Z",
       "updated_at": "2026-09-09T19:24:40Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.92.1/openalice-cli-0.92.1-darwin-arm64.tar.gz.sha256"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:459faec477da7fae5b41374ed4470612223ae5a6f3acf86b02e26f17213013e9",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-09T19:24:40Z",
       "updated_at": "2026-09-09T19:24:40Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.92.1/openalice-cli-0.92.1-linux-x64.tar.gz.sha256"
@@ -2047,7 +2047,7 @@
       "state": "uploaded",
       "size": 59147568,
       "digest": "sha256:a32c72a98aa534ac75b02593fb0986dea45386c7bb3ebedbc310021f1b8d85f5",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-09T19:24:40Z",
       "updated_at": "2026-09-09T19:24:48Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.92.1/openalice-cli-0.92.1-win32-x64.tar.gz"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 5618,
       "digest": "sha256:7c074206110def04edc1a8934aa4fb2f49307533b6e4c37f9ddc9a02c7bb7356",
-      "download_count": 6,
+      "download_count": 8,
       "created_at": "2026-09-09T19:24:40Z",
       "updated_at": "2026-09-09T19:24:40Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.92.1/openalice.rb"
