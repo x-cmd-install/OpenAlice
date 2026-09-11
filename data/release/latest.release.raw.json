@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 515,
       "digest": "sha256:5e1200cebe210ce0405a841f14b6158af335c3f2396abd70cd08ad23a0ee3e6b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:02Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/latest-mac.yml"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 350,
       "digest": "sha256:a6b6d67041b441ac64778666e5a4f0cfb20426c4d33ab69dcdf8ba4b085f3401",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:02Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/latest.yml"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2429,
       "digest": "sha256:e01a76dc86715e86adee826f31be3a22c718dc45fc6e0ee0c0aed8dba5a127af",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:03Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/npm-publish-order.json"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 457704903,
       "digest": "sha256:a02170145d337fe69ff3934c9c2ce65424f3b2f8b4703d624a085e40e6045c80",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:28Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-arm64-mac.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 243465,
       "digest": "sha256:77e9962628265a7e750d88119822f3fda3bb020c135f8ffccd430bab6ea5f967",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:03Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-arm64-mac.zip.blockmap"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 454290238,
       "digest": "sha256:f69b6a1ff6a6548a22e011099d94f323f0ab8c319b55e6dec8b97651b3bc6960",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:28Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-arm64.dmg"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 35794,
       "digest": "sha256:2a8b556e8c7500586edec25fb731f0828c32fffd010646e2abd68b1510794b0a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:03Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-install"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 4721025,
       "digest": "sha256:7989b5d855a09def7001023e1ccd1a374d1b9af5952c565f6b081e6a90317217",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:04Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-alpaca-0.93.0-linux-x64.tgz"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 2548691,
       "digest": "sha256:ed679c9ba890242c544bec30c3f9f43832acd6c9aaed6cb9026c9e23a45d456b",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:03Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ibkr-0.93.0-darwin-arm64.tgz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 55859781,
       "digest": "sha256:a620f73d6b9e7133629f0fbf8cf0c889a7f76910e5f591fb0abea8f2cc0beae0",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:10Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-linux-x64.tar.gz"
@@ -1939,7 +1939,7 @@
       "state": "uploaded",
       "size": 104,
       "digest": "sha256:7a783aca7d2f1ba450e6634e9029b7e5df797982e39c14562fbb8e6f5fa09a92",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:03Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-linux-x64.tar.gz.sha256"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 5618,
       "digest": "sha256:b55c43146506ffb00302fba675dfcc9c3b4e8eec6219bf0212c9a03a1008461c",
-      "download_count": 9,
+      "download_count": 12,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:03Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice.rb"

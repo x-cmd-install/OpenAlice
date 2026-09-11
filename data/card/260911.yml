@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.93.0"
   latestRelease: "v0.93.0"
   latestPrerelease: "v0.93.0-beta"
-  collectedAt: 2026-09-11T05:46:00Z
+  collectedAt: 2026-09-11T19:08:31Z
 timeline:
   created: 2026-02-18
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-10
   lastPrerelease: 2026-09-10
 popularity:
-  star: 7038
+  star: 7041
   watcher: 34
   fork: 1121
   release: 78
@@ -92,7 +92,7 @@ total:
   commit: 4116
 ---
 path: /home/runner/.x-repo/github.com/TraderAlice/OpenAlice
-collectedAt: 2026-09-11T05:46:07Z
+collectedAt: 2026-09-11T19:08:39Z
 loc:
   TypeScript:
     code: 298958
@@ -207,8 +207,8 @@ total:
 ---
 
 ---
-  - node-sub
-  - node-pub
-  - node-reply
-  - node-req
   - .npmignore
+  - node-pub
+  - node-req
+  - node-sub
+  - node-reply
