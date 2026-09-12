@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 457704903,
       "digest": "sha256:a02170145d337fe69ff3934c9c2ce65424f3b2f8b4703d624a085e40e6045c80",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:28Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-arm64-mac.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 490066863,
       "digest": "sha256:84463cd6759c1794abaf44f3ab66b1ce889d3b28b3b09d746957b7529a28d9a2",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:26Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-mac.zip"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 4721025,
       "digest": "sha256:7989b5d855a09def7001023e1ccd1a374d1b9af5952c565f6b081e6a90317217",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:04Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-alpaca-0.93.0-linux-x64.tgz"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 5618,
       "digest": "sha256:b55c43146506ffb00302fba675dfcc9c3b4e8eec6219bf0212c9a03a1008461c",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:03Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice.rb"
@@ -2371,7 +2371,7 @@
       "state": "uploaded",
       "size": 268843727,
       "digest": "sha256:fa4bc9b93d051861f7968d15f40eed74b52aff82f17091870c9fd1bf98dcce6c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-10T18:08:02Z",
       "updated_at": "2026-09-10T18:08:20Z",
       "browser_download_url": "https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice.Setup.0.93.0.exe"
