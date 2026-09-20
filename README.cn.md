@@ -4,7 +4,7 @@
 
 Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.
 
-![OpenAlice](https://repo.x-cmd.io/OpenAlice.svg?lang=zh)
+[![x-cmd/install — OpenAlice Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenAlice.svg?lang=zh)](https://x-cmd.com/install/OpenAlice)
 
 ## 安装
 
@@ -14,15 +14,15 @@ x install OpenAlice
 
 ## 代码洞察
 
-合计: **470,072** 行代码（覆盖前 5 种语言、共 **2896** 个文件）。
+合计: **488,073** 行代码（覆盖前 5 种语言、共 **2954** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 299,859 | 23,291 | 32,193 | 2073 |
-| Tsx | 92,585 | 2,371 | 7,543 | 425 |
-| JavaScript | 27,253 | 421 | 1,929 | 134 |
+| TypeScript | 303,744 | 23,440 | 32,387 | 2114 |
+| Tsx | 93,428 | 2,372 | 7,609 | 437 |
+| JavaScript | 32,960 | 432 | 1,913 | 137 |
 | Python | 23,571 | 2,916 | 5,227 | 256 |
-| Css | 11,382 | 192 | 1,544 | 8 |
+| Css | 17,463 | 195 | 2,713 | 10 |
 
 ## 源代码
 
@@ -32,100 +32,106 @@ x install OpenAlice
 
 ## 发布
 
-- **最新版本**: `v0.93.1-beta` (2026-09-10)
-- **最近提交**: 2026-09-12
-- **Release 含资产**: 67 个
+- **最新版本**: `v0.94.0` (2026-09-20)
+- **最近提交**: 2026-09-20
+- **Release 含资产**: 73 个
 
 ## 流行度
 
-- **Star**: 7,089 · **Fork**: 1,131 · **开放 issue**: 141 · **贡献者**: 7
+- **Star**: 7,113 · **Fork**: 1,132 · **开放 issue**: 145 · **贡献者**: 8
 
 ## 累计统计
 
-- **发布数**: 79 · **已合并 PR**: 1243 · **开放 PR**: 30 · **已关闭 issue**: 96 · **开放 issue**: 45 · **提交数**: 4133
+- **发布数**: 84 · **已合并 PR**: 1276 · **开放 PR**: 31 · **已关闭 issue**: 98 · **开放 issue**: 47 · **提交数**: 4265
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 20 | 327 | 18 | 0 | 26 | 922 |
-| last60d | 2026-07-20 | 30 | 713 | 26 | 18 | 34 | 1422 |
-| 90d | 2026-06-20 | 48 | 991 | 29 | 50 | 39 | 1793 |
-| last180d | 2026-03-22 | 73 | 1185 | 30 | 85 | 45 | 2476 |
-| 360d | 2025-09-23 | 79 | 1243 | 30 | 96 | 45 | 2849 |
-| last720d | 2024-09-28 | 79 | 1243 | 30 | 96 | 45 | 4133 |
+| 30d | 2026-08-21 | 25 | 358 | 18 | 2 | 28 | 967 |
+| last60d | 2026-07-22 | 34 | 746 | 26 | 17 | 36 | 1479 |
+| 90d | 2026-06-22 | 53 | 1019 | 30 | 52 | 41 | 1807 |
+| last180d | 2026-03-24 | 77 | 1215 | 31 | 86 | 47 | 2535 |
+| 360d | 2025-09-25 | 84 | 1276 | 31 | 98 | 47 | 2925 |
+| last720d | 2024-09-30 | 84 | 1276 | 31 | 98 | 47 | 4265 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [cli-package-channels.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/cli-package-channels.json) | 2.1 KiB | `other` |
-| [latest-intel-mac.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/latest-intel-mac.yml) | 497 B | `other` |
-| [latest-mac-arm64.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/latest-mac-arm64.yml) | 515 B | `other` |
-| [latest-mac-intel.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/latest-mac-intel.yml) | 497 B | `other` |
-| [latest-mac.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/latest-mac.yml) | 515 B | `other` |
-| [latest.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/latest.yml) | 350 B | `other` |
-| [npm-publish-order.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/npm-publish-order.json) | 2.4 KiB | `other` |
-| [OpenAlice-0.93.0-arm64-mac.zip](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-arm64-mac.zip) | 436.5 MiB | `other` |
-| [OpenAlice-0.93.0-arm64-mac.zip.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-arm64-mac.zip.blockmap) | 237.8 KiB | `other` |
-| [OpenAlice-0.93.0-arm64.dmg](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-arm64.dmg) | 433.2 MiB | `other` |
-| [OpenAlice-0.93.0-arm64.dmg.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-arm64.dmg.blockmap) | 455.6 KiB | `other` |
-| [OpenAlice-0.93.0-install](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-install) | 35.0 KiB | `other` |
-| [OpenAlice-0.93.0-install.ps1](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-install.ps1) | 19.1 KiB | `other` |
-| [OpenAlice-0.93.0-install.ps1.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-install.ps1.sha256) | 95 B | `other` |
-| [OpenAlice-0.93.0-install.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-install.sha256) | 91 B | `other` |
-| [OpenAlice-0.93.0-mac.zip](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-mac.zip) | 467.4 MiB | `other` |
-| [OpenAlice-0.93.0-mac.zip.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0-mac.zip.blockmap) | 249.4 KiB | `other` |
-| [OpenAlice-0.93.0.dmg](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0.dmg) | 463.7 MiB | `other` |
-| [OpenAlice-0.93.0.dmg.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-0.93.0.dmg.blockmap) | 487.8 KiB | `other` |
-| [openalice-0.93.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-0.93.0.tgz) | 13.5 KiB | `native/unknown` |
-| [openalice-bin.SRCINFO](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-bin.SRCINFO) | 868 B | `other` |
-| [OpenAlice-Broker-alpaca-0.93.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-alpaca-0.93.0-darwin-arm64.tgz) | 4.6 MiB | `native/darwin/arm64` |
-| [OpenAlice-Broker-alpaca-0.93.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-alpaca-0.93.0-darwin-x64.tgz) | 4.6 MiB | `native/darwin/x64` |
-| [OpenAlice-Broker-alpaca-0.93.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-alpaca-0.93.0-linux-x64.tgz) | 4.5 MiB | `native/unknown` |
-| [OpenAlice-Broker-alpaca-0.93.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-alpaca-0.93.0-win32-x64.tgz) | 4.5 MiB | `native/win/x64` |
-| [OpenAlice-Broker-ccxt-0.93.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ccxt-0.93.0-darwin-arm64.tgz) | 17.8 MiB | `native/darwin/arm64` |
-| [OpenAlice-Broker-ccxt-0.93.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ccxt-0.93.0-darwin-x64.tgz) | 17.8 MiB | `native/darwin/x64` |
-| [OpenAlice-Broker-ccxt-0.93.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ccxt-0.93.0-linux-x64.tgz) | 17.7 MiB | `native/unknown` |
-| [OpenAlice-Broker-ccxt-0.93.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ccxt-0.93.0-win32-x64.tgz) | 17.7 MiB | `native/win/x64` |
-| [OpenAlice-Broker-ibkr-0.93.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ibkr-0.93.0-darwin-arm64.tgz) | 2.4 MiB | `native/darwin/arm64` |
-| [OpenAlice-Broker-ibkr-0.93.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ibkr-0.93.0-darwin-x64.tgz) | 2.4 MiB | `native/darwin/x64` |
-| [OpenAlice-Broker-ibkr-0.93.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ibkr-0.93.0-linux-x64.tgz) | 2.4 MiB | `native/unknown` |
-| [OpenAlice-Broker-ibkr-0.93.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-ibkr-0.93.0-win32-x64.tgz) | 2.4 MiB | `native/win/x64` |
-| [OpenAlice-Broker-leverup-0.93.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-leverup-0.93.0-darwin-arm64.tgz) | 13.4 MiB | `native/darwin/arm64` |
-| [OpenAlice-Broker-leverup-0.93.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-leverup-0.93.0-darwin-x64.tgz) | 13.4 MiB | `native/darwin/x64` |
-| [OpenAlice-Broker-leverup-0.93.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-leverup-0.93.0-linux-x64.tgz) | 12.4 MiB | `native/unknown` |
-| [OpenAlice-Broker-leverup-0.93.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-leverup-0.93.0-win32-x64.tgz) | 12.4 MiB | `native/win/x64` |
-| [OpenAlice-Broker-longbridge-0.93.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-longbridge-0.93.0-darwin-arm64.tgz) | 18.4 MiB | `native/darwin/arm64` |
-| [OpenAlice-Broker-longbridge-0.93.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-longbridge-0.93.0-darwin-x64.tgz) | 17.1 MiB | `native/darwin/x64` |
-| [OpenAlice-Broker-longbridge-0.93.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-longbridge-0.93.0-linux-x64.tgz) | 60.3 MiB | `native/unknown` |
-| [OpenAlice-Broker-longbridge-0.93.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-longbridge-0.93.0-win32-x64.tgz) | 13.0 MiB | `native/win/x64` |
-| [OpenAlice-Broker-Packs-0.93.0-darwin-arm64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-Packs-0.93.0-darwin-arm64.json) | 1.6 KiB | `native/darwin/arm64` |
-| [OpenAlice-Broker-Packs-0.93.0-darwin-x64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-Packs-0.93.0-darwin-x64.json) | 1.6 KiB | `native/darwin/x64` |
-| [OpenAlice-Broker-Packs-0.93.0-linux-x64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-Packs-0.93.0-linux-x64.json) | 1.7 KiB | `other` |
-| [OpenAlice-Broker-Packs-0.93.0-win32-x64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice-Broker-Packs-0.93.0-win32-x64.json) | 1.6 KiB | `native/win/x64` |
-| [openalice-cli-0.93.0-darwin-arm64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-darwin-arm64.tar.gz) | 43.0 MiB | `native/darwin/arm64` |
-| [openalice-cli-0.93.0-darwin-arm64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-darwin-arm64.tar.gz.sha256) | 107 B | `native/darwin/arm64` |
-| [openalice-cli-0.93.0-darwin-x64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-darwin-x64.tar.gz) | 45.5 MiB | `native/darwin/x64` |
-| [openalice-cli-0.93.0-darwin-x64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-darwin-x64.tar.gz.sha256) | 105 B | `native/darwin/x64` |
-| [openalice-cli-0.93.0-linux-arm64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-linux-arm64.tar.gz) | 53.2 MiB | `native/linux/arm64` |
-| [openalice-cli-0.93.0-linux-arm64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-linux-arm64.tar.gz.sha256) | 106 B | `native/linux/arm64` |
-| [openalice-cli-0.93.0-linux-x64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-linux-x64.tar.gz) | 53.3 MiB | `native/unknown` |
-| [openalice-cli-0.93.0-linux-x64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-linux-x64.tar.gz.sha256) | 104 B | `other` |
-| [openalice-cli-0.93.0-win32-arm64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-win32-arm64.tar.gz) | 53.0 MiB | `native/win/arm64` |
-| [openalice-cli-0.93.0-win32-arm64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-win32-arm64.tar.gz.sha256) | 106 B | `native/win/arm64` |
-| [openalice-cli-0.93.0-win32-x64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-win32-x64.tar.gz) | 56.4 MiB | `native/win/x64` |
-| [openalice-cli-0.93.0-win32-x64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-cli-0.93.0-win32-x64.tar.gz.sha256) | 104 B | `native/win/x64` |
-| [openalice-darwin-arm64-0.93.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-darwin-arm64-0.93.0.tgz) | 43.8 MiB | `native/darwin/arm64` |
-| [openalice-darwin-x64-0.93.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-darwin-x64-0.93.0.tgz) | 45.8 MiB | `native/darwin/x64` |
-| [openalice-linux-arm64-0.93.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-linux-arm64-0.93.0.tgz) | 54.2 MiB | `native/linux/arm64` |
-| [openalice-linux-x64-0.93.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-linux-x64-0.93.0.tgz) | 53.7 MiB | `native/unknown` |
-| [openalice-windows-arm64-0.93.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-windows-arm64-0.93.0.tgz) | 54.0 MiB | `native/win/arm64` |
-| [openalice-windows-x64-0.93.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice-windows-x64-0.93.0.tgz) | 57.1 MiB | `native/win/x64` |
-| [openalice.rb](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/openalice.rb) | 5.5 KiB | `other` |
-| [OpenAlice.Setup.0.93.0.exe](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice.Setup.0.93.0.exe) | 256.4 MiB | `other` |
-| [OpenAlice.Setup.0.93.0.exe.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/OpenAlice.Setup.0.93.0.exe.blockmap) | 252.5 KiB | `other` |
-| [PKGBUILD](https://github.com/TraderAlice/OpenAlice/releases/download/v0.93.0/PKGBUILD) | 2.3 KiB | `other` |
+| [cli-package-channels.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/cli-package-channels.json) | 2.1 KiB | `other` |
+| [latest-intel-mac.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/latest-intel-mac.yml) | 497 B | `other` |
+| [latest-mac-arm64.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/latest-mac-arm64.yml) | 515 B | `other` |
+| [latest-mac-intel.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/latest-mac-intel.yml) | 497 B | `other` |
+| [latest-mac.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/latest-mac.yml) | 515 B | `other` |
+| [latest.yml](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/latest.yml) | 350 B | `other` |
+| [npm-publish-order.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/npm-publish-order.json) | 2.4 KiB | `other` |
+| [OpenAlice-0.94.0-arm64-mac.zip](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-arm64-mac.zip) | 439.7 MiB | `other` |
+| [OpenAlice-0.94.0-arm64-mac.zip.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-arm64-mac.zip.blockmap) | 240.2 KiB | `other` |
+| [OpenAlice-0.94.0-arm64.dmg](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-arm64.dmg) | 436.4 MiB | `other` |
+| [OpenAlice-0.94.0-arm64.dmg.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-arm64.dmg.blockmap) | 453.5 KiB | `other` |
+| [OpenAlice-0.94.0-install](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-install) | 35.0 KiB | `other` |
+| [OpenAlice-0.94.0-install.ps1](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-install.ps1) | 19.6 KiB | `other` |
+| [OpenAlice-0.94.0-install.ps1.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-install.ps1.sha256) | 95 B | `other` |
+| [OpenAlice-0.94.0-install.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-install.sha256) | 91 B | `other` |
+| [OpenAlice-0.94.0-mac.zip](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-mac.zip) | 470.6 MiB | `other` |
+| [OpenAlice-0.94.0-mac.zip.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0-mac.zip.blockmap) | 254.1 KiB | `other` |
+| [OpenAlice-0.94.0.dmg](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0.dmg) | 467.0 MiB | `other` |
+| [OpenAlice-0.94.0.dmg.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-0.94.0.dmg.blockmap) | 492.1 KiB | `other` |
+| [openalice-0.94.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-0.94.0.tgz) | 13.5 KiB | `native/unknown` |
+| [openalice-bin.SRCINFO](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-bin.SRCINFO) | 868 B | `other` |
+| [OpenAlice-Broker-alpaca-0.94.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-alpaca-0.94.0-darwin-arm64.tgz) | 4.6 MiB | `native/darwin/arm64` |
+| [OpenAlice-Broker-alpaca-0.94.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-alpaca-0.94.0-darwin-x64.tgz) | 4.6 MiB | `native/darwin/x64` |
+| [OpenAlice-Broker-alpaca-0.94.0-linux-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-alpaca-0.94.0-linux-arm64.tgz) | 4.5 MiB | `native/linux/arm64` |
+| [OpenAlice-Broker-alpaca-0.94.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-alpaca-0.94.0-linux-x64.tgz) | 4.5 MiB | `native/unknown` |
+| [OpenAlice-Broker-alpaca-0.94.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-alpaca-0.94.0-win32-x64.tgz) | 4.5 MiB | `native/win/x64` |
+| [OpenAlice-Broker-ccxt-0.94.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ccxt-0.94.0-darwin-arm64.tgz) | 17.8 MiB | `native/darwin/arm64` |
+| [OpenAlice-Broker-ccxt-0.94.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ccxt-0.94.0-darwin-x64.tgz) | 17.8 MiB | `native/darwin/x64` |
+| [OpenAlice-Broker-ccxt-0.94.0-linux-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ccxt-0.94.0-linux-arm64.tgz) | 17.7 MiB | `native/linux/arm64` |
+| [OpenAlice-Broker-ccxt-0.94.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ccxt-0.94.0-linux-x64.tgz) | 17.7 MiB | `native/unknown` |
+| [OpenAlice-Broker-ccxt-0.94.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ccxt-0.94.0-win32-x64.tgz) | 17.7 MiB | `native/win/x64` |
+| [OpenAlice-Broker-ibkr-0.94.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ibkr-0.94.0-darwin-arm64.tgz) | 2.4 MiB | `native/darwin/arm64` |
+| [OpenAlice-Broker-ibkr-0.94.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ibkr-0.94.0-darwin-x64.tgz) | 2.4 MiB | `native/darwin/x64` |
+| [OpenAlice-Broker-ibkr-0.94.0-linux-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ibkr-0.94.0-linux-arm64.tgz) | 2.4 MiB | `native/linux/arm64` |
+| [OpenAlice-Broker-ibkr-0.94.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ibkr-0.94.0-linux-x64.tgz) | 2.4 MiB | `native/unknown` |
+| [OpenAlice-Broker-ibkr-0.94.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-ibkr-0.94.0-win32-x64.tgz) | 2.4 MiB | `native/win/x64` |
+| [OpenAlice-Broker-leverup-0.94.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-leverup-0.94.0-darwin-arm64.tgz) | 13.4 MiB | `native/darwin/arm64` |
+| [OpenAlice-Broker-leverup-0.94.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-leverup-0.94.0-darwin-x64.tgz) | 13.4 MiB | `native/darwin/x64` |
+| [OpenAlice-Broker-leverup-0.94.0-linux-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-leverup-0.94.0-linux-arm64.tgz) | 12.4 MiB | `native/linux/arm64` |
+| [OpenAlice-Broker-leverup-0.94.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-leverup-0.94.0-linux-x64.tgz) | 12.4 MiB | `native/unknown` |
+| [OpenAlice-Broker-leverup-0.94.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-leverup-0.94.0-win32-x64.tgz) | 12.4 MiB | `native/win/x64` |
+| [OpenAlice-Broker-longbridge-0.94.0-darwin-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-longbridge-0.94.0-darwin-arm64.tgz) | 18.4 MiB | `native/darwin/arm64` |
+| [OpenAlice-Broker-longbridge-0.94.0-darwin-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-longbridge-0.94.0-darwin-x64.tgz) | 17.1 MiB | `native/darwin/x64` |
+| [OpenAlice-Broker-longbridge-0.94.0-linux-arm64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-longbridge-0.94.0-linux-arm64.tgz) | 55.1 MiB | `native/linux/arm64` |
+| [OpenAlice-Broker-longbridge-0.94.0-linux-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-longbridge-0.94.0-linux-x64.tgz) | 60.3 MiB | `native/unknown` |
+| [OpenAlice-Broker-longbridge-0.94.0-win32-x64.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-longbridge-0.94.0-win32-x64.tgz) | 13.0 MiB | `native/win/x64` |
+| [OpenAlice-Broker-Packs-0.94.0-darwin-arm64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-Packs-0.94.0-darwin-arm64.json) | 1.6 KiB | `native/darwin/arm64` |
+| [OpenAlice-Broker-Packs-0.94.0-darwin-x64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-Packs-0.94.0-darwin-x64.json) | 1.6 KiB | `native/darwin/x64` |
+| [OpenAlice-Broker-Packs-0.94.0-linux-arm64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-Packs-0.94.0-linux-arm64.json) | 1.7 KiB | `native/linux/arm64` |
+| [OpenAlice-Broker-Packs-0.94.0-linux-x64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-Packs-0.94.0-linux-x64.json) | 1.7 KiB | `other` |
+| [OpenAlice-Broker-Packs-0.94.0-win32-x64.json](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice-Broker-Packs-0.94.0-win32-x64.json) | 1.6 KiB | `native/win/x64` |
+| [openalice-cli-0.94.0-darwin-arm64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-darwin-arm64.tar.gz) | 45.8 MiB | `native/darwin/arm64` |
+| [openalice-cli-0.94.0-darwin-arm64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-darwin-arm64.tar.gz.sha256) | 107 B | `native/darwin/arm64` |
+| [openalice-cli-0.94.0-darwin-x64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-darwin-x64.tar.gz) | 48.3 MiB | `native/darwin/x64` |
+| [openalice-cli-0.94.0-darwin-x64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-darwin-x64.tar.gz.sha256) | 105 B | `native/darwin/x64` |
+| [openalice-cli-0.94.0-linux-arm64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-linux-arm64.tar.gz) | 56.0 MiB | `native/linux/arm64` |
+| [openalice-cli-0.94.0-linux-arm64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-linux-arm64.tar.gz.sha256) | 106 B | `native/linux/arm64` |
+| [openalice-cli-0.94.0-linux-x64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-linux-x64.tar.gz) | 56.0 MiB | `native/unknown` |
+| [openalice-cli-0.94.0-linux-x64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-linux-x64.tar.gz.sha256) | 104 B | `other` |
+| [openalice-cli-0.94.0-win32-arm64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-win32-arm64.tar.gz) | 55.8 MiB | `native/win/arm64` |
+| [openalice-cli-0.94.0-win32-arm64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-win32-arm64.tar.gz.sha256) | 106 B | `native/win/arm64` |
+| [openalice-cli-0.94.0-win32-x64.tar.gz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-win32-x64.tar.gz) | 59.2 MiB | `native/win/x64` |
+| [openalice-cli-0.94.0-win32-x64.tar.gz.sha256](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-cli-0.94.0-win32-x64.tar.gz.sha256) | 104 B | `native/win/x64` |
+| [openalice-darwin-arm64-0.94.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-darwin-arm64-0.94.0.tgz) | 46.6 MiB | `native/darwin/arm64` |
+| [openalice-darwin-x64-0.94.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-darwin-x64-0.94.0.tgz) | 48.6 MiB | `native/darwin/x64` |
+| [openalice-linux-arm64-0.94.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-linux-arm64-0.94.0.tgz) | 57.0 MiB | `native/linux/arm64` |
+| [openalice-linux-x64-0.94.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-linux-x64-0.94.0.tgz) | 56.5 MiB | `native/unknown` |
+| [openalice-windows-arm64-0.94.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-windows-arm64-0.94.0.tgz) | 56.8 MiB | `native/win/arm64` |
+| [openalice-windows-x64-0.94.0.tgz](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice-windows-x64-0.94.0.tgz) | 59.9 MiB | `native/win/x64` |
+| [openalice.rb](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/openalice.rb) | 5.5 KiB | `other` |
+| [OpenAlice.Setup.0.94.0.exe](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice.Setup.0.94.0.exe) | 259.4 MiB | `other` |
+| [OpenAlice.Setup.0.94.0.exe.blockmap](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/OpenAlice.Setup.0.94.0.exe.blockmap) | 256.1 KiB | `other` |
+| [PKGBUILD](https://github.com/TraderAlice/OpenAlice/releases/download/v0.94.0/PKGBUILD) | 2.3 KiB | `other` |
 
 ## 改进这些数据
 
@@ -136,4 +142,4 @@ OpenAlice 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:53:36Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:51:54Z._
