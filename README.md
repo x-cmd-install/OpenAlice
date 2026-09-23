@@ -4,7 +4,7 @@
 
 Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.
 
-[![x-cmd/install — OpenAlice Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenAlice.svg)](https://x-cmd.com/install/OpenAlice)
+[![x-cmd/install — OpenAlice Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/OpenAlice.svg)](https://x-cmd.com/install/OpenAlice)
 
 ## Install
 
@@ -14,13 +14,13 @@ x install OpenAlice
 
 ## Code insight
 
-Total: **489,597** lines of code across **2976** files in the top 5 languages.
+Total: **489,978** lines of code across **2978** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 305,121 | 23,483 | 32,455 | 2129 |
+| TypeScript | 305,497 | 23,484 | 32,504 | 2131 |
 | Tsx | 93,595 | 2,376 | 7,617 | 444 |
-| JavaScript | 32,960 | 432 | 1,913 | 137 |
+| JavaScript | 32,965 | 432 | 1,913 | 137 |
 | Python | 23,571 | 2,916 | 5,227 | 256 |
 | Css | 17,443 | 194 | 2,712 | 10 |
 
@@ -33,27 +33,27 @@ Total: **489,597** lines of code across **2976** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.94.1-beta` (2026-09-20)
-- **Last commit**: 2026-09-20
+- **Last commit**: 2026-09-23
 - **Assets in release**: 73
 
 ## Popularity
 
-- **Stars**: 7,130 · **Forks**: 1,134 · **Open issues**: 145 · **Contributors**: 8
+- **Stars**: 7,136 · **Forks**: 1,137 · **Open issues**: 146 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 85 · **Merged PRs**: 1294 · **Open PRs**: 29 · **Closed issues**: 98 · **Open issues**: 47 · **Commits**: 4292
+- **Releases**: 85 · **Merged PRs**: 1309 · **Open PRs**: 29 · **Closed issues**: 98 · **Open issues**: 48 · **Commits**: 4296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 25 | 357 | 17 | 2 | 26 | 980 |
-| last60d | 2026-07-24 | 35 | 762 | 24 | 16 | 36 | 1492 |
-| 90d | 2026-06-24 | 52 | 1029 | 28 | 51 | 41 | 1820 |
-| last180d | 2026-03-26 | 77 | 1231 | 29 | 86 | 47 | 2548 |
-| 360d | 2025-09-27 | 85 | 1294 | 29 | 98 | 47 | 2938 |
-| last720d | 2024-10-02 | 85 | 1294 | 29 | 98 | 47 | 4292 |
+| 30d | 2026-08-24 | 25 | 372 | 17 | 2 | 27 | 983 |
+| last60d | 2026-07-25 | 35 | 777 | 24 | 15 | 37 | 1495 |
+| 90d | 2026-06-25 | 51 | 1042 | 28 | 49 | 42 | 1823 |
+| last180d | 2026-03-27 | 77 | 1246 | 29 | 84 | 48 | 2551 |
+| 360d | 2025-09-28 | 85 | 1309 | 29 | 98 | 48 | 2941 |
+| last720d | 2024-10-03 | 85 | 1309 | 29 | 98 | 48 | 4296 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for OpenAlice lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:06:56Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:10:08Z._

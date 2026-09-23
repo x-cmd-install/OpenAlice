@@ -4,7 +4,7 @@
 
 Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit.
 
-[![x-cmd/install — OpenAlice Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OpenAlice.svg?lang=zh)](https://x-cmd.com/install/OpenAlice)
+[![x-cmd/install — OpenAlice Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/OpenAlice.svg?lang=zh)](https://x-cmd.com/install/OpenAlice)
 
 ## 安装
 
@@ -14,13 +14,13 @@ x install OpenAlice
 
 ## 代码洞察
 
-合计: **489,597** 行代码（覆盖前 5 种语言、共 **2976** 个文件）。
+合计: **489,978** 行代码（覆盖前 5 种语言、共 **2978** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| TypeScript | 305,121 | 23,483 | 32,455 | 2129 |
+| TypeScript | 305,497 | 23,484 | 32,504 | 2131 |
 | Tsx | 93,595 | 2,376 | 7,617 | 444 |
-| JavaScript | 32,960 | 432 | 1,913 | 137 |
+| JavaScript | 32,965 | 432 | 1,913 | 137 |
 | Python | 23,571 | 2,916 | 5,227 | 256 |
 | Css | 17,443 | 194 | 2,712 | 10 |
 
@@ -33,27 +33,27 @@ x install OpenAlice
 ## 发布
 
 - **最新版本**: `v0.94.1-beta` (2026-09-20)
-- **最近提交**: 2026-09-20
+- **最近提交**: 2026-09-23
 - **Release 含资产**: 73 个
 
 ## 流行度
 
-- **Star**: 7,130 · **Fork**: 1,134 · **开放 issue**: 145 · **贡献者**: 8
+- **Star**: 7,136 · **Fork**: 1,137 · **开放 issue**: 146 · **贡献者**: 8
 
 ## 累计统计
 
-- **发布数**: 85 · **已合并 PR**: 1294 · **开放 PR**: 29 · **已关闭 issue**: 98 · **开放 issue**: 47 · **提交数**: 4292
+- **发布数**: 85 · **已合并 PR**: 1309 · **开放 PR**: 29 · **已关闭 issue**: 98 · **开放 issue**: 48 · **提交数**: 4296
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 25 | 357 | 17 | 2 | 26 | 980 |
-| last60d | 2026-07-24 | 35 | 762 | 24 | 16 | 36 | 1492 |
-| 90d | 2026-06-24 | 52 | 1029 | 28 | 51 | 41 | 1820 |
-| last180d | 2026-03-26 | 77 | 1231 | 29 | 86 | 47 | 2548 |
-| 360d | 2025-09-27 | 85 | 1294 | 29 | 98 | 47 | 2938 |
-| last720d | 2024-10-02 | 85 | 1294 | 29 | 98 | 47 | 4292 |
+| 30d | 2026-08-24 | 25 | 372 | 17 | 2 | 27 | 983 |
+| last60d | 2026-07-25 | 35 | 777 | 24 | 15 | 37 | 1495 |
+| 90d | 2026-06-25 | 51 | 1042 | 28 | 49 | 42 | 1823 |
+| last180d | 2026-03-27 | 77 | 1246 | 29 | 84 | 48 | 2551 |
+| 360d | 2025-09-28 | 85 | 1309 | 29 | 98 | 48 | 2941 |
+| last720d | 2024-10-03 | 85 | 1309 | 29 | 98 | 48 | 4296 |
 
 ## Release 资产
 
@@ -142,4 +142,4 @@ OpenAlice 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:06:57Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:10:09Z._
