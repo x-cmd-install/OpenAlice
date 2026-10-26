@@ -38,7 +38,7 @@ Total: **507,342** lines of code across **3162** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,370 · **Forks**: 1,155 · **Open issues**: 178 · **Contributors**: 10
+- **Stars**: 7,373 · **Forks**: 1,155 · **Open issues**: 178 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **507,342** lines of code across **3162** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 76 | 36 | 12 | 18 | 33 |
-| last60d | 2026-08-26 | 28 | 484 | 57 | 20 | 40 | 663 |
-| 90d | 2026-07-27 | 38 | 891 | 62 | 33 | 48 | 1425 |
-| last180d | 2026-04-28 | 75 | 1336 | 67 | 89 | 58 | 2536 |
-| 360d | 2025-10-30 | 88 | 1426 | 67 | 120 | 58 | 3102 |
-| last720d | 2024-11-04 | 88 | 1426 | 67 | 120 | 58 | 4608 |
+| 30d | 2026-09-26 | 1 | 76 | 34 | 12 | 18 | 33 |
+| last60d | 2026-08-27 | 28 | 480 | 56 | 20 | 40 | 663 |
+| 90d | 2026-07-28 | 38 | 838 | 62 | 32 | 48 | 1425 |
+| last180d | 2026-04-29 | 75 | 1332 | 67 | 89 | 58 | 2536 |
+| 360d | 2025-10-31 | 88 | 1426 | 67 | 120 | 58 | 3102 |
+| last720d | 2024-11-05 | 88 | 1426 | 67 | 120 | 58 | 4608 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for OpenAlice lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:22:48Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:42:24Z._
