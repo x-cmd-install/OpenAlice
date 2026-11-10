@@ -14,13 +14,13 @@ x install OpenAlice
 
 ## Code insight
 
-Total: **521,437** lines of code across **3254** files in the top 5 languages.
+Total: **523,723** lines of code across **3264** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 314,713 | 23,728 | 32,787 | 2254 |
+| TypeScript | 316,980 | 23,809 | 33,020 | 2264 |
 | Tsx | 106,433 | 2,466 | 8,503 | 580 |
-| JavaScript | 33,103 | 510 | 1,951 | 156 |
+| JavaScript | 33,122 | 510 | 1,952 | 156 |
 | Python | 23,346 | 2,909 | 5,161 | 252 |
 | Css | 20,552 | 230 | 2,955 | 12 |
 
@@ -32,28 +32,28 @@ Total: **521,437** lines of code across **3254** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.95.0-beta` (2026-09-24)
-- **Last commit**: 2026-11-08
+- **Latest**: `v0.95.0-beta.2` (2026-09-24)
+- **Last commit**: 2026-11-09
 - **Assets in release**: 73
 
 ## Popularity
 
-- **Stars**: 7,441 · **Forks**: 1,171 · **Open issues**: 178 · **Contributors**: 10
+- **Stars**: 7,443 · **Forks**: 1,170 · **Open issues**: 178 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 88 · **Merged PRs**: 1458 · **Open PRs**: 68 · **Closed issues**: 120 · **Open issues**: 58 · **Commits**: 4690
+- **Releases**: 89 · **Merged PRs**: 1463 · **Open PRs**: 68 · **Closed issues**: 120 · **Open issues**: 58 · **Commits**: 4702
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 37 | 4 | 0 | 7 | 16 |
-| last60d | 2026-09-10 | 12 | 239 | 45 | 14 | 25 | 264 |
-| 90d | 2026-08-11 | 31 | 614 | 61 | 22 | 42 | 1257 |
-| last180d | 2026-05-13 | 70 | 1342 | 68 | 88 | 56 | 2412 |
-| 360d | 2025-11-14 | 88 | 1458 | 68 | 120 | 58 | 3137 |
-| last720d | 2024-11-19 | 88 | 1458 | 68 | 120 | 58 | 4690 |
+| 30d | 2026-10-11 | 1 | 39 | 3 | 0 | 5 | 21 |
+| last60d | 2026-09-11 | 11 | 243 | 45 | 14 | 25 | 269 |
+| 90d | 2026-08-12 | 31 | 615 | 61 | 22 | 42 | 1262 |
+| last180d | 2026-05-14 | 70 | 1345 | 68 | 88 | 56 | 2417 |
+| 360d | 2025-11-15 | 89 | 1463 | 68 | 120 | 58 | 3142 |
+| last720d | 2024-11-20 | 89 | 1463 | 68 | 120 | 58 | 4702 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for OpenAlice lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:21:08Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:21:15Z._
