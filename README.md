@@ -32,28 +32,28 @@ Total: **546,645** lines of code across **3302** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.95.0-beta.2` (2026-09-24)
+- **Latest**: `v0.95.0-beta.3` (2026-09-24)
 - **Last commit**: 2026-11-20
 - **Assets in release**: 73
 
 ## Popularity
 
-- **Stars**: 7,475 · **Forks**: 1,175 · **Open issues**: 178 · **Contributors**: 10
+- **Stars**: 7,476 · **Forks**: 1,174 · **Open issues**: 178 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 89 · **Merged PRs**: 1484 · **Open PRs**: 66 · **Closed issues**: 122 · **Open issues**: 56 · **Commits**: 4765
+- **Releases**: 90 · **Merged PRs**: 1486 · **Open PRs**: 66 · **Closed issues**: 122 · **Open issues**: 56 · **Commits**: 4767
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 58 | 3 | 0 | 1 | 49 |
-| last60d | 2026-09-21 | 4 | 192 | 41 | 12 | 20 | 222 |
-| 90d | 2026-08-22 | 30 | 558 | 56 | 22 | 40 | 1225 |
-| last180d | 2026-05-24 | 67 | 1350 | 66 | 86 | 54 | 2384 |
-| 360d | 2025-11-25 | 89 | 1484 | 66 | 122 | 56 | 3173 |
-| last720d | 2024-11-30 | 89 | 1484 | 66 | 122 | 56 | 4765 |
+| 30d | 2026-10-22 | 2 | 59 | 3 | 0 | 1 | 50 |
+| last60d | 2026-09-22 | 5 | 186 | 40 | 12 | 19 | 223 |
+| 90d | 2026-08-23 | 30 | 549 | 56 | 21 | 39 | 1226 |
+| last180d | 2026-05-25 | 68 | 1346 | 66 | 86 | 54 | 2385 |
+| 360d | 2025-11-26 | 90 | 1486 | 66 | 122 | 56 | 3174 |
+| last720d | 2024-12-01 | 90 | 1486 | 66 | 122 | 56 | 4767 |
 
 ## Release assets
 
@@ -142,4 +142,4 @@ Install metadata for OpenAlice lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:56:10Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:39:04Z._
